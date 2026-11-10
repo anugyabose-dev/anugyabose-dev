@@ -105,7 +105,7 @@ A collection of things I've explored, developed, and learned from.
 | 🤖 **Gemini Chatbot** | Gemini-powered chatbot application |
 | 🖼️ **Image Analyzer** | Image analysis application |
 | 🧩 **Drag & Drop** | Interactive drag-and-drop application |
-| 📰 **NewsPulse** | Your World, In Real Time — News Application |
+| 📰 **The Daily Decode** | Your World, In Real Time — News Application |
 
 <p align="center">
   <i>Individual repository links coming soon.</i>
