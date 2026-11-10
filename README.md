@@ -1,113 +1,163 @@
-# Hey there! 👋 I'm Anugya Bose
-
-### Full Stack Developer | B.Tech CSE (AI & ML) Student
-
-I enjoy turning ideas into code and building digital experiences that are useful, creative, and meaningful. I'm passionate about technology, problem-solving, and continuously learning new things.
-
----
-
-## 🚀 About Me
-
-- 🎓 Pursuing B.Tech in Computer Science & Engineering (AI & ML) through lateral entry.
-- 💻 Full Stack Developer with a background in Computer Science.
-- 🌱 Exploring AI, Machine Learning, and modern web technologies.
-- 🛠️ Love building projects and experimenting with new ideas.
-- ♟️ Interested in chess, technology, and creative problem-solving.
-
----
-
-## 💻 Tech Stack
-
-**Languages**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Frontend Development**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
----
-
-## 🌟 Featured Projects
-
-### 🌐 Web Development
-
-| Project | Description |
-|---|---|
-| **WordWise** | A dictionary web application for exploring word meanings. |
-| **CineScope** | A movie explorer and recommendation web application. |
-| **TravelTales** | A platform for sharing and exploring travel stories. |
-| **NewsPulse** | Your world, in real time — a news application. |
-
-### 🤖 AI & Interactive Applications
-
-| Project | Description |
-|---|---|
-| **Gemini Chatbot** | A chatbot application powered by Google's Gemini AI. |
-| **Image Analyzer** | An application for image analysis. |
-| **Drag & Drop Interface** | An interactive application featuring drag-and-drop functionality. |
-
----
-
-## 📊 GitHub Statistics
+# ✦ Anugya Bose | Full Stack Developer & AI/ML Enthusiast
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anugyabose-dev&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anugyabose-dev&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=2800&pause=900&color=8B9EFF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;B.Tech+CSE+%7C+Artificial+Intelligence+%26+ML;Building+Ideas+Through+Code;Learning+Something+New+Every+Day." />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=anugyabose-dev&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🌱 Currently Exploring
-
-- Artificial Intelligence & Machine Learning
-- Full Stack Development
-- Data Structures & Algorithms
-- Scalable web applications
-- New and emerging technologies
-
----
-
-## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://github.com/anugyabose-dev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Explore_My_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/anugya-bose-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:anugyabose26@gmail.com">
+    <img src="https://img.shields.io/badge/Drop_Me_an_Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
+### 01. A LITTLE ABOUT ME
+
+Hello! I'm Anugya, a Computer Science student and Full Stack Developer who enjoys creating things with technology.
+
+For me, development is a mix of logic, creativity, curiosity, and a lot of problem-solving. I like exploring new tools, experimenting with ideas, and transforming concepts into functional applications.
+
+- 🎓 B.Tech CSE student specializing in AI & ML
+- 💻 Interested in Full Stack Web Development
+- 🤖 Exploring AI, ML, and intelligent applications
+- 🧠 Learning through projects and practical experiments
+
+**My approach:** Learn it. Build it. Improve it. Repeat.
+
+---
+
+### 02. EDUCATION JOURNEY
+
+<details>
+<summary><b>🎓 B.Tech — Computer Science & Engineering (AI & ML)</b></summary>
+
+Rungta College of Engineering & Technology, Bhilai
+
+2026 – 2029 · Currently pursuing
+</details>
+
+<details>
+<summary><b>💻 Diploma — Computer Science & Engineering</b></summary>
+
+Bharti Vishwavidyalaya, Durg
+
+2023 – 2026 · Completed
+</details>
+
+<details>
+<summary><b>📚 Class 12th — Higher Secondary Education (CBSE)</b></summary>
+
+Shri Shankaracharya Vidyalaya, HUDCO, Bhilai
+
+Completed
+</details>
+
+<details>
+<summary><b>🏫 Class 10th — Secondary Education (CBSE)</b></summary>
+
+Shri Shankaracharya Vidyalaya, HUDCO, Bhilai
+
+Completed
+</details>
+
+---
+
+### 03. MY DEVELOPMENT TOOLBOX
+
 <p align="center">
-  <i>"Turning curiosity into code and ideas into experiences."</i> ✨
+  <b>LANGUAGES</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,php" />
+</p>
+
+<p align="center">
+  <b>FRONTEND & BACKEND</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap" />
+</p>
+
+<p align="center">
+  <b>DATABASES</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+<p align="center">
+  <b>TOOLS & TECHNOLOGIES</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,opencv" />
+</p>
+
+---
+
+### 04. PROJECTS & EXPERIMENTS
+
+A collection of things I've explored, developed, and learned from.
+
+| Project | Description |
+|:--|:--|
+| 📚 **WordWise** | Dictionary Web Application |
+| 🎬 **CineScope** | Movie Explorer & Recommendation Web Application |
+| 🌍 **TravelTales** | Travel Story Application |
+| 🤖 **Gemini Chatbot** | Gemini-powered chatbot application |
+| 🖼️ **Image Analyzer** | Image analysis application |
+| 🧩 **Drag & Drop** | Interactive drag-and-drop application |
+| 📰 **NewsPulse** | Your World, In Real Time — News Application |
+
+<p align="center">
+  <i>Individual repository links coming soon.</i>
+</p>
+
+---
+
+### 05. GITHUB INSIGHTS
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anugyabose-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anugyabose-dev&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="75%" src="https://streak-stats.demolab.com?user=anugyabose-dev&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 06. WHAT'S NEXT?
+
+- Deepening my knowledge of AI & Machine Learning
+- Improving my Data Structures & Algorithms skills
+- Building more full-stack applications
+- Exploring emerging technologies
+- Becoming a better developer with every project
+
+---
+
+### 07. FIND ME AROUND THE WEB
+
+<p align="center">
+  <a href="https://github.com/anugyabose-dev">
+    <img src="https://img.shields.io/badge/GitHub-Visit_Profile-181717?style=flat-square&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/anugya-bose-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="mailto:anugyabose26@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-8B5CF6?style=flat-square&logo=gmail" />
+  </a>
+</p>
+
+
+
+---
+
+<p align="center">
+  <i>"Curiosity starts the idea. Code brings it to life."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:071B38,100:8B5CF6&height=4&section=footer" width="100%" />
 </p>
